@@ -1,7 +1,19 @@
 {
-  "name": "root",
-  "private": true,
-  "devDependencies": {
-    "lerna": "^4.0.0"
-  }
+  "name": "lerna-shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrCox007/lerna-shared.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrCox007/lerna-shared/issues"
+  },
+  "homepage": "https://github.com/MrCox007/lerna-shared#readme"
 }
